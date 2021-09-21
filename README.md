@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yogeeshwara
-- 👀 I’m interested in ...technologies that inspire and bring obvious changes.
-- 🌱 I’m currently learning ...React.js, JS, Node.js, PHP and Mongo
-- 💞️ I’m looking to collaborate on ...React.js
+- 👀 I’m interested in ...technologies that inspire and bring web to life.
+- 🌱 I’m working on ... Woocommerce, Wordpress, Magento, React.js, JS, PHP, Mysql.. 
+- 💞️ I’m looking to collaborate on ...e-commerce, and related webdevelopment..
 - 📫 How to reach me ...
 
 <!---
